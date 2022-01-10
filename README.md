@@ -1,6 +1,6 @@
 # desafio-python
 
-Essa é a resolução de um exercício em pytho que eu realizei, eu o fiz da minha maneira, mas você pode fazer da sua, apenas segue o exercício:
+Essa é a resolução de um exercício em python que eu realizei, eu o fiz da minha maneira, mas você pode fazer da sua, apenas segue o exercício:
 
 "Tempos modernos"… e não nos referimos ao clássico filme de Charles Chaplin, mas sim às facilidades que a tecnologia proporciona, inimagináveis há algumas décadas. Uma dessas tecnologias é a internet, que possibilitou as compras online.Podemos comprar em sites de empresas e em poucos dias a mercadoria estará em nossas mãos. 
 A Impacta Express, uma multinacional de comércio eletrônico e com sua própria logística de distribuição, quer revolucionar realizando qualquer entrega no prazo de até seis dias a partir da realização da compra.
